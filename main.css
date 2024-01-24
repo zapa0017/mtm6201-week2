@@ -34,7 +34,7 @@ body {
     display: grid;
     gap: 1rem;
     grid-template-columns: 1fr 1fr;
-    width: 45%;
+    width: 56%;
   }
 
   .emoji {
